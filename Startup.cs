@@ -19,7 +19,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using Newtonsoft.Json;
 
-namespace api
+namespace ApiCom
 {
     public class Startup
     {
